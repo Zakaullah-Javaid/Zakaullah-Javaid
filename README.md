@@ -1,34 +1,70 @@
-👋 Hey there! I'm Zakaullah Javaid
-<img align="right" src="https://example.com/your-image-url.jpg" alt="A picture representing Zakaullah" width="250"/>
-I am a dedicated MERN Stack Developer with extensive experience in a variety of web development tools and frameworks. I believe in crafting efficient and responsive web applications that deliver a seamless user experience.
+# 👋 Hey there! I'm Zakaullah Javaid 
 
-🛠️ My Tech Stack:
-Frontend:
-React.js: Building interactive UI components.
-Next.js: For server-side rendering and static site generation.
-JavaScript & TypeScript: Crafting dynamic and type-safe applications.
-HTML & CSS: The foundation of web design.
-SASS: Extending CSS with dynamic behavior.
-Material-UI, Tailwind CSS, Chakra UI, Bootstrap, & Ant Design: For beautiful and responsive UI designs.
-Backend:
-Node.js: Running JavaScript on the server.
-Nest.js: Scalable Node.js server-side application architecture.
-Express.js: Web application framework for Node.js.
-Databases:
-MongoDB: NoSQL database for modern apps.
-MySQL: Reliable and powerful relational database.
-Tools:
-Postman: For API testing and development.
-🏢 Company: Proudly developing at Devbatch.
+Dedicated **MERN Stack Developer** with extensive experience in modern web development frameworks and tools. Crafting efficient and responsive web applications is my forte.
 
-🌍 Let's Connect:
-Email: zakaullahjavaid@gmail.com
-LinkedIn: Zakaullah Javaid
-🖋️ Quotes that inspire me:
-"Talk is cheap. Show me the code." - Linus Torvalds
+## 🛠️ My Tech Stack:
 
-"The best method for accelerating a computer is the one that boosts it by 9.8 m/s²." - Anonymous
+### Frontend:
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
-"Programming isn't about what you know; it's about what you can figure out." - Chris Pine
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 
-Always be on the lookout for opportunities to learn and improve, because the tech landscape is always evolving! 🚀
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+
+![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass)
+
+![Material-UI](https://img.shields.io/badge/-MaterialUI-black?style=flat-square&logo=material-ui)
+
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+
+![ChakraUI](https://img.shields.io/badge/-ChakraUI-black?style=flat-square&logo=chakra-ui)
+
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+
+![Ant Design](https://img.shields.io/badge/-AntDesign-black?style=flat-square&logo=ant-design)
+
+
+### Backend:
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+
+![Nest.js](https://img.shields.io/badge/-Nest.js-black?style=flat-square&logo=nestjs)
+
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+
+
+### Databases:
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
+### Tools:
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+
+🏢 **At Work**: Innovating web solutions at **Devbatch**.
+
+---
+
+## 🌍 Connect with Me:
+
+- **Email**: [zakaullahjavaid@gmail.com](mailto:zakaullahjavaid@gmail.com)
+- **LinkedIn**: [Zakaullah Javaid](https://www.linkedin.com/in/zakaullah-javaid-ab9b98197/)
+
+---
+
+## 🖋️ Inspiring Quotes:
+
+> "Talk is cheap. Show me the code." - Linus Torvalds
+
+> "The function of good software is to make the complex appear to be simple." - Grady Booch
+
+> "Don't comment bad code—rewrite it." - Brian W. Kernighan
+
+---
+
+Continuous learning is the essence of growth in tech! 🚀
