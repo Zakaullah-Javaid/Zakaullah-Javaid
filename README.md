@@ -26,6 +26,8 @@ Dedicated **MERN Stack Developer** with extensive experience in modern web devel
 
 - **Email**: [zakaullahjavaid@gmail.com](mailto:zakaullahjavaid@gmail.com)
 - **LinkedIn**: [Zakaullah Javaid](https://www.linkedin.com/in/zakaullah-javaid-ab9b98197/)
+- **Upwork**: [Zakaullah Javaid](https://www.upwork.com/freelancers/~0195cc7bdb6c25f5fe/)
+  
 
 ---
 
