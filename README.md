@@ -32,9 +32,3 @@ LinkedIn: Zakaullah Javaid
 "Programming isn't about what you know; it's about what you can figure out." - Chris Pine
 
 Always be on the lookout for opportunities to learn and improve, because the tech landscape is always evolving! 🚀
-
-
-
-
-
-
